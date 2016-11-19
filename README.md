@@ -11,3 +11,10 @@ Feel free to add any healthy ingredients; and write your name with the comments.
 ```bash
 ghc fun-hello_world.hs && ./fun-hello_world
 ```
+## Roadmap
+
+One day Haskell will support this..?
+
+```haskell
+llap = "🖖 live long and prosper"
+```
