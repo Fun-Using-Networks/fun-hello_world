@@ -1,6 +1,6 @@
 # fun-hello_world
 
-This nutritional sauce demonstrates just how disorderly functional can be.
+This nutritional sauce demonstrates just how [disorderly](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) functional can be.
 
 Some comments have been sprinkled into the recipe.
 
