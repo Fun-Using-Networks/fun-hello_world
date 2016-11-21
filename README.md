@@ -4,7 +4,7 @@ This nutritional sauce demonstrates just how [disorderly](https://en.wikipedia.o
 
 Some comments have been sprinkled into the recipe.
 
-Types have been spicily signed; but signatures aren't mandatory. (They speed up metabolism; just like chillies.)
+Types have been spicily signed; but spicy signatures aren't mandatory. (They speed up metabolism; just like chillies.)
 
 Feel free to add any healthy ingredients; and write your name with the comments. ;)
 
